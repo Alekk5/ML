@@ -7,7 +7,7 @@
 
 Для построения графиков используется изначальная выборка за 68 дней. Значение -ярлык (ясно/дождь), скорость ветра, направление ветра, температура, давление, влажность, дата/время. Соответствует значениям label, wind speed, wind direction, temperature, pressure, humidity, date/time. 
 
-<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2019/2/18/2e1d5518ca00591648ce1dda8aaf7c72-full.png" border="0"/></a>
+<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2019/2/18/4b88cea898590dc3f0baf8f4c6e84f41-full.png" border="0"/></a>
 
 - Довольно высокую влажность;  
 - Высокое давление;  

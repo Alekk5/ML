@@ -1,5 +1,6 @@
 # ML
 Предсказание погоды
+[URL=https://savepice.ru][IMG]https://cdn1.savepice.ru/uploads/2019/2/18/15815d25a83945a33ffb0fcedb707f60-full.png[/IMG][/URL] [URL=http://perfetto-furniture.com/categories/gostinyie.html]итальянские гостиные[/URL]
 ЛИСТ ДЛЯ ЗАМЕЧАНИЙ 
 
 Разрыв страницы
